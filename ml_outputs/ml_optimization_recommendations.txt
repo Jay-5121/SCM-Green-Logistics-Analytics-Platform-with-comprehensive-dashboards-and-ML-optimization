@@ -1,0 +1,34 @@
+================================================================================
+SCM GREEN LOGISTICS - ML OPTIMIZATION RECOMMENDATIONS
+================================================================================
+Generated on: 2025-08-19 19:33:40
+
+Objective: Balance cost and carbon outcomes via multi-objective optimization.
+
+🤖 ML MODEL PERFORMANCE SUMMARY:
+  • Operational Efficiency: LinearRegression (CV R² = 1.000)
+  • Environmental Impact: RandomForest (CV R² = 0.799)
+  • Cost Efficiency: RandomForest (CV R² = 0.979)
+
+🔍 KEY FEATURE INSIGHTS:
+  • Environmental Impact: cost_efficiency_index is most important
+  • Cost Efficiency: cost_efficiency_index is most important
+
+🌱 OPTIMIZATION SCENARIOS (Cost vs Carbon):
+  • Ai Blockchain Optimization: Ai improvement of 4.6%
+  • Ai Blockchain Optimization: Blockchain improvement of 20.0%
+  • Scm Practice Optimization: 30.0% improvement
+  • Supplier Collaboration Optimization: 25.0% improvement
+
+💡 STRATEGIC RECOMMENDATIONS (Multi-objective):
+  1. Scale AI + Blockchain to improve efficiency while enabling traceability and waste reduction
+  2. Shift to sustainable SCM practices (Lean/Agile/Sustainable) to cut cost and carbon together
+  3. Enhance supplier collaboration to stabilize lead times and reduce expediting emissions
+  4. Optimize transport mix and load consolidation to lower both OPEX and CO2e per ton-km
+  5. Institutionalize data-driven continuous optimization across cost & sustainability KPIs
+
+🚀 IMPLEMENTATION ROADMAP:
+  Phase 1 (0-3 months): Multi-objective pilots (cost vs carbon) in 1-2 lanes/products
+  Phase 2 (3-6 months): Scale SCM practice optimization and supplier collaboration
+  Phase 3 (6-12 months): Expand AI/ERP integration; evaluate blockchain for compliance
+  Phase 4 (12+ months): Continuous optimization & carbon accounting integration

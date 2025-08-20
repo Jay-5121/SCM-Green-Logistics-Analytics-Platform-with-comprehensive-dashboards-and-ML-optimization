@@ -1,0 +1,165 @@
+================================================================================
+SCM GREEN LOGISTICS - LLM INSIGHTS SAMPLE QUERIES
+================================================================================
+Generated on: 2025-08-19 11:07:22
+
+Query 1: What are the top performing companies?
+Response:
+🔍 **Query Analysis:** Performance category
+📊 **Confidence:** 14.3%
+
+
+🏆 **Top 5 Operational Performers:**
+  1. Hulu: 90.0
+  2. Looker: 90.0
+  3. Abbott Laboratories: 90.0
+  4. Meditech: 90.0
+  5. Bentley: 90.0
+
+💡 **ML-Based Recommendations:**
+• Implement technology-driven supply chain optimization
+--------------------------------------------------------------------------------
+
+Query 2: How many companies use AI technology?
+Response:
+🔍 **Query Analysis:** Technology category
+📊 **Confidence:** 14.3%
+
+🤖 **Technology Adoption Insights:**
+  • AI: 955 companies (95.6%)
+  • Blockchain: 798 companies (79.9%)
+  • Robotics: 234 companies (23.4%)
+  • ERP: 966 companies (96.7%)
+
+📊 **Technology Distribution:**
+  • ERP, AI, Blockchain: 697 companies
+  • ERP, AI, Robotics: 157 companies
+  • AI, ERP, Blockchain: 68 companies
+  • ERP, JIT, Robotics: 44 companies
+  • AI, Robotics, Blockchain: 33 companies
+
+💡 **ML-Based Recommendations:**
+• Prioritize AI and Blockchain adoption for operational efficiency
+--------------------------------------------------------------------------------
+
+Query 3: Which companies are most environmentally friendly?
+Response:
+🔍 **Query Analysis:** Environmental category
+📊 **Confidence:** 16.7%
+
+🌱 **Environmental Performance Insights:**
+  • Average Score: 75.0
+  • Median Score: 75.0
+  • Score Range: 65.0 - 90.0
+  • Standard Deviation: 1.5
+
+🌿 **Top 5 Environmental Performers:**
+  1. Alibaba: 90.0
+  2. Intel: 85.0
+  3. Salesforce: 85.0
+  4. Twitter: 85.0
+  5. Atlassian: 85.0
+
+💡 **ML-Based Recommendations:**
+• Focus on sustainable SCM practices for environmental impact
+--------------------------------------------------------------------------------
+
+Query 4: What SCM practices are most common?
+Response:
+🔍 **Query Analysis:** Scm Practices category
+📊 **Confidence:** 16.7%
+
+🔗 **SCM Practices Distribution:**
+  • Lean Manufacturing: 326 companies (32.6%)
+  • Agile SCM: 312 companies (31.2%)
+  • Vendor Managed Inventory: 171 companies (17.1%)
+  • Sustainable SCM: 69 companies (6.9%)
+  • Demand-Driven SCM: 57 companies (5.7%)
+  • Just-In-Time: 34 companies (3.4%)
+  • Cross-Docking: 18 companies (1.8%)
+  • Efficient Consumer Response: 12 companies (1.2%)
+
+⚡ **Supply Chain Agility:**
+  • High: 841 companies (84.2%)
+  • Medium: 158 companies (15.8%)
+
+💡 **ML-Based Recommendations:**
+• Develop data-driven decision making frameworks
+• Implement continuous optimization and monitoring
+--------------------------------------------------------------------------------
+
+Query 5: Compare AI vs non-AI company performance
+Response:
+🔍 **Query Analysis:** Comparative category
+📊 **Confidence:** 28.6%
+
+🔍 **AI vs Non-AI Performance Comparison:**
+  • AI Companies: 83.5 average efficiency
+  • Non-AI Companies: 82.5 average efficiency
+  • Performance Difference: 1.0 points
+
+📊 **SCM Practice Performance Comparison:**
+  • Vendor Managed Inventory: 83.9 average efficiency
+  • Just-In-Time: 83.9 average efficiency
+  • Demand-Driven SCM: 83.8 average efficiency
+
+💡 **ML-Based Recommendations:**
+• Develop data-driven decision making frameworks
+• Implement continuous optimization and monitoring
+--------------------------------------------------------------------------------
+
+Query 6: What's the average operational efficiency?
+Response:
+🔍 **Query Analysis:** Performance category
+📊 **Confidence:** 14.3%
+
+
+🏆 **Top 5 Operational Performers:**
+  1. Hulu: 90.0
+  2. Looker: 90.0
+  3. Abbott Laboratories: 90.0
+  4. Meditech: 90.0
+  5. Bentley: 90.0
+
+💡 **ML-Based Recommendations:**
+• Implement technology-driven supply chain optimization
+--------------------------------------------------------------------------------
+
+Query 7: Show me blockchain adoption rates
+Response:
+🔍 **Query Analysis:** Technology category
+📊 **Confidence:** 28.6%
+
+🤖 **Technology Adoption Insights:**
+  • AI: 955 companies (95.6%)
+  • Blockchain: 798 companies (79.9%)
+  • Robotics: 234 companies (23.4%)
+  • ERP: 966 companies (96.7%)
+
+📊 **Technology Distribution:**
+  • ERP, AI, Blockchain: 697 companies
+  • ERP, AI, Robotics: 157 companies
+  • AI, ERP, Blockchain: 68 companies
+  • ERP, JIT, Robotics: 44 companies
+  • AI, Robotics, Blockchain: 33 companies
+
+💡 **ML-Based Recommendations:**
+• Prioritize AI and Blockchain adoption for operational efficiency
+--------------------------------------------------------------------------------
+
+Query 8: Which practices lead to better environmental scores?
+Response:
+🔍 **Query Analysis:** Performance category
+📊 **Confidence:** 14.3%
+
+
+🏆 **Top 5 Operational Performers:**
+  1. Hulu: 90.0
+  2. Looker: 90.0
+  3. Abbott Laboratories: 90.0
+  4. Meditech: 90.0
+  5. Bentley: 90.0
+
+💡 **ML-Based Recommendations:**
+• Implement technology-driven supply chain optimization
+--------------------------------------------------------------------------------

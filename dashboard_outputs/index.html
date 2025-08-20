@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCM Green Logistics Analytics Platform</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .header {
+            text-align: center; margin-bottom: 40px; background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px); border-radius: 20px; padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .header h1 { color: #fff; font-size: 2.5rem; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        .header p { color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; line-height: 1.6; }
+        .dashboard-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin-bottom: 40px; }
+        .dashboard-card {
+            background: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 25px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .dashboard-card:hover { transform: translateY(-5px); box-shadow: 0 12px 40px rgba(0,0,0,0.15); }
+        .dashboard-card h3 { color: #4a5568; margin-bottom: 15px; font-size: 1.3rem; display: flex; align-items: center; gap: 10px; }
+        .dashboard-card p { color: #666; line-height: 1.6; margin-bottom: 20px; }
+        .dashboard-card a {
+            display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; text-decoration: none; padding: 12px 24px; border-radius: 25px; font-weight: 600;
+            transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        .dashboard-card a:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4); }
+        .footer { text-align: center; color: rgba(255, 255, 255, 0.8); padding: 20px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.2); }
+        .status-badge { display: inline-block; background: #48bb78; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; margin-left: 10px; }
+        .coming-soon { background: #ed8936; }
+        .creator-credit { text-align: center; margin-top: 20px; padding: 15px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 15px; border: 1px solid rgba(255, 255, 255, 0.2); }
+        .creator-credit p { color: rgba(255, 255, 255, 0.9); font-size: 1rem; font-weight: 500; }
+        .creator-name { color: #ffd700; font-weight: 600; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); }
+        @media (max-width: 768px) { .container { padding: 15px; } .header h1 { font-size: 2rem; } .dashboard-grid { grid-template-columns: 1fr; gap: 20px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 SCM Green Logistics Analytics Platform</h1>
+            <p>Comprehensive supply chain management and sustainability analytics platform using advanced ML and LLM technologies</p>
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="dashboard-card">
+                <h3>📈 Executive Summary <span class="status-badge">✅ Ready</span></h3>
+                <p>High-level overview of key performance metrics, technology adoption, and strategic insights for executive decision-making.</p>
+                <a href="executive_summary_dashboard.html">View Dashboard</a>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🚀 Operational Analytics <span class="status-badge">✅ Ready</span></h3>
+                <p>Detailed analysis of operational efficiency, top performers, SCM practices, and technology impact on performance.</p>
+                <a href="operational_analytics_dashboard.html">View Dashboard</a>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>💰🌱 Cost vs Carbon Optimization <span class="status-badge">✅ Ready</span></h3>
+                <p>Comprehensive analysis of cost vs carbon trade-offs, ML optimization scenarios, feature importance, and strategic recommendations for balancing both objectives.</p>
+                <a href="cost_carbon_optimization_dashboard.html">View Dashboard</a>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🎯 Strategic Recommendations <span class="status-badge">✅ Ready</span></h3>
+                <p>Project objectives overview, strategic recommendations, implementation roadmap, and expected outcomes for executive decision-making.</p>
+                <a href="strategic_recommendations_dashboard.html">View Dashboard</a>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🌱 Environmental Sustainability <span class="status-badge coming-soon">Coming Soon</span></h3>
+                <p>Environmental impact analysis, sustainability metrics, green practices, and environmental performance trends.</p>
+                <p><em>This dashboard will be available in the next update with enhanced environmental analytics.</em></p>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🤖 Technology Innovation <span class="status-badge coming-soon">Coming Soon</span></h3>
+                <p>Technology adoption rates, innovation impact, digital transformation metrics, and future technology trends.</p>
+                <p><em>This dashboard will be available in the next update with comprehensive technology insights.</em></p>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🧠 ML Insights <span class="status-badge coming-soon">Coming Soon</span></h3>
+                <p>Machine learning model performance, feature importance, optimization scenarios, and AI-driven recommendations.</p>
+                <p><em>This dashboard will be available in the next update with advanced ML analytics.</em></p>
+            </div>
+            
+            <div class="dashboard-card">
+                <h3>🔍 Interactive Data Explorer <span class="status-badge coming-soon">Coming Soon</span></h3>
+                <p>Comprehensive data exploration tool with interactive visualizations, filtering, and deep-dive analytics capabilities.</p>
+                <p><em>This dashboard will be available in the next update with interactive data exploration.</em></p>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Generated on 2025-08-20 22:53:21 | SCM Green Logistics Analytics Platform</p>
+        </div>
+        
+        <div class="creator-credit">
+            <p>Created by <span class="creator-name">Jay S Kaphale</span> | Advanced Analytics & ML Solutions</p>
+        </div>
+    </div>
+</body>
+</html>
+        

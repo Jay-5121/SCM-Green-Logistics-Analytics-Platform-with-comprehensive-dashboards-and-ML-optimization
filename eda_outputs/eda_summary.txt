@@ -1,0 +1,38 @@
+================================================================================
+SCM GREEN LOGISTICS - EXPLORATORY DATA ANALYSIS SUMMARY
+================================================================================
+Generated on: 2025-08-19 00:42:39
+
+📊 DATASET OVERVIEW:
+  Total Companies: 999
+  Total Features: 24
+
+🌱 ENVIRONMENTAL INSIGHTS:
+  Average Environmental Score: 75.04 ± 1.52
+  Companies above average: 29
+
+⚡ OPERATIONAL INSIGHTS:
+  Average Operational Efficiency: 83.45
+  High performers (>80): 790
+
+🏭 SCM PRACTICES DISTRIBUTION:
+  Lean Manufacturing: 326 companies (32.6%)
+  Agile SCM: 312 companies (31.2%)
+  Vendor Managed Inventory: 171 companies (17.1%)
+  Sustainable SCM: 69 companies (6.9%)
+  Demand-Driven SCM: 57 companies (5.7%)
+  Just-In-Time: 34 companies (3.4%)
+  Cross-Docking: 18 companies (1.8%)
+  Efficient Consumer Response: 12 companies (1.2%)
+
+📁 OUTPUT FILES GENERATED:
+  All plots saved in: eda_outputs/
+  - SCM practices distribution
+  - Environmental impact analysis
+  - Correlation matrix
+
+🎯 KEY RECOMMENDATIONS:
+  1. Focus on companies with high environmental scores for best practices
+  2. Analyze correlation between environmental and operational performance
+  3. Identify supply chain practices that drive sustainability
+  4. Benchmark against top performers in each category
